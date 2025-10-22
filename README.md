@@ -2,9 +2,9 @@
 
 **NeoEdit** is a powerful, feature-rich text editor built with Python and Tkinter. It combines essential text editing capabilities with advanced features like encryption, PDF export, and find/replace functionality—all within an intuitive graphical interface.
 
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-GPL_v3-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green?style=for-the-badge)
 
 ## ✨ Features:
 
