@@ -177,7 +177,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## 📧 Contact:
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact [your.email@example.com](mailto:amalbijoy2007@gmail.com)
+For questions, suggestions, or issues, please open an issue on GitHub or contact [amalbijoy2007@gmail.com](mailto:amalbijoy2007@gmail.com)
 
 ---
 
